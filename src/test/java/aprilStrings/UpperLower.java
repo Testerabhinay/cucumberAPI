@@ -46,4 +46,5 @@ public class UpperLower {
 		   System.out.print(c);
 		 }
 
+
 }
